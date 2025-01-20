@@ -21,6 +21,9 @@ rex.ratelimit("Ratelimit message")
 rex.input("Input")
 ```
 
+## Screenshot
+![image](https://github.com/user-attachments/assets/c044e76f-4162-4828-87ae-7ff1070a71ac)
+
 ## Features
 
 - Colored output using colorama
