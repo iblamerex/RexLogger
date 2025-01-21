@@ -22,7 +22,8 @@ rex.input("Input")
 ```
 
 ## Screenshot
-![image](https://github.com/user-attachments/assets/c044e76f-4162-4828-87ae-7ff1070a71ac)
+![image](https://github.com/user-attachments/assets/7c0c921c-a766-4eaa-8607-4112dc3ae12c)
+
 
 ## Features
 
